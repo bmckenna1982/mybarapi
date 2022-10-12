@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS inventory;
+
+DROP TABLE IF EXISTS bottles;
+
+DROP TABLE IF EXISTS categories;
+
+DROP TABLE IF EXISTS users;
+
+
